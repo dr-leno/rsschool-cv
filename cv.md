@@ -20,7 +20,8 @@ I am a biochemist turned frontend developer. The university and neuroscience cou
 * Figma, Photoshop
 
 ### Code Example:
-```function multiply (a, b) {
+```
+function multiply (a, b) {
 return a * b
 }
 ```
