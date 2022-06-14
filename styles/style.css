@@ -37,8 +37,11 @@ header {
     justify-content: space-between;
 }
 h2 {
-    margin: 10px 0 10px 0;
+    padding: 10px 0;
     background-color: #EDF8FE;
+}
+h3{
+    padding: 10px 0;
 }
 .left-column {
     width: 66%;
